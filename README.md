@@ -6,7 +6,7 @@ Espero que seja útil para você. Se tiver dificuldades fale comigo pelo e-mail:
 
 ## Modal simples de Aviso de Cookies
 
-[Aviso de Cookies simples com PHP e Javascript:
+[Aviso de Cookies simples com PHP e Javascript:]
 ![Aviso de Cookies simples com PHP e Javascript](/exemplo-basico.png)]
 
 ```html
